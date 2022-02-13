@@ -4,11 +4,11 @@ https://emanvidmaker.itch.io/projectile-launch-sim
 Made for my physics class as my final presentation on visualizing different angles on the projectile launch function.
 
 Controls:
-Move with WASD
-Q-E to move up and down
-Spacebar to enable first person camera rotation
-Scroll wheel to speed up;
-On 2d mode use scroll wheel to zoom in/out
+    Move with WASD
+    Q-E to move up and down
+    Spacebar to enable first person camera rotation
+    Scroll wheel to speed up;
+    On 2d mode use scroll wheel to zoom in/out
 
 Legend:
 
