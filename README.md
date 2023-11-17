@@ -1,5 +1,7 @@
 # Projectile-Launch-Sim
 
+A Demonstration of the Projectile launch function to create a physics engine
+
 Made for my physics class as my final presentation on visualizing different angles on the projectile launch function.
 Play it here: https://emanvidmaker.itch.io/projectile-launch-sim
 
